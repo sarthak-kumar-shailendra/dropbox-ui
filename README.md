@@ -19,6 +19,8 @@ After the successful installation of nodejs and npm, clone the repository into y
  You can check it using yarn start or  npm start 
  It will open the website locally on your browser.
 
+ Once you run BE service as well, just paste the url(where service is running, right now it is - http://localhost:8080/) in a variable name BASE in utils.ts 
+
 
 <img width="1425" alt="Screenshot 2023-09-01 at 4 22 28 AM" src="https://github.com/sarthak-kumar-shailendra/dropbox-ui/assets/69191344/f262fd40-9185-43d6-a967-7e2a97cf6ac2">
 <img width="1414" alt="Screenshot 2023-09-01 at 4 22 38 AM" src="https://github.com/sarthak-kumar-shailendra/dropbox-ui/assets/69191344/1993dc0f-8fb2-43d1-8bc8-8edd84ecd072">
